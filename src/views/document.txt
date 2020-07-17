@@ -1,0 +1,10 @@
+dataManage 数据管理
+productManager 商品管理
+activityManager 活动管理
+businessManager 商家管理
+orderManager 订单管理
+refundManager 退款管理
+userManager 用户管理
+commentManager 评论管理
+sysAdminManager 管理员管理
+sysSetting 小程序管理
